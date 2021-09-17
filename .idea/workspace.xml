@@ -20,15 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="441b9b19-c37a-40dc-9874-94ea5d8315dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/graphics.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samsc/chap22/calc.c" beforeDir="false" afterPath="$PROJECT_DIR$/samsc/chap22/calc.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samsc/chap22/calc.h" beforeDir="false" afterPath="$PROJECT_DIR$/samsc/chap22/calc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samsc/chap22/commandargs.c" beforeDir="false" afterPath="$PROJECT_DIR$/samsc/chap22/commandargs.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samsc/chap22/list2101.c" beforeDir="false" afterPath="$PROJECT_DIR$/samsc/chap22/list2101.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samsc/chap22/macrorepl.c" beforeDir="false" afterPath="$PROJECT_DIR$/samsc/chap22/macrorepl.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samsc/chap22/prog.h" beforeDir="false" afterPath="$PROJECT_DIR$/samsc/chap22/prog.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/win/win.c" beforeDir="false" afterPath="$PROJECT_DIR$/win/win.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outschool/ansic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outschool/calc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outschool/guess.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outschool/hellooutschool.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outschool/input.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outschool/random.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +56,21 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev2\github\c\outschool" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631800736296</updated>
       <workItem from="1631800737501" duration="862000" />
+      <workItem from="1631895130332" duration="3008000" />
     </task>
     <servers />
   </component>
@@ -96,5 +102,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631895887591">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1631895887591" />
   </component>
 </project>
